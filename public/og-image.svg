@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1120" />
+      <stop offset="1" stop-color="#142253" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#599dff" />
+      <stop offset="1" stop-color="#34d3a6" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="1050" cy="120" r="220" fill="#1f5aeb" opacity="0.18" />
+  <circle cx="120" cy="540" r="200" fill="#10b981" opacity="0.16" />
+
+  <g transform="translate(90, 150)">
+    <rect width="92" height="92" rx="22" fill="url(#accent)" />
+    <text x="46" y="58" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif"
+          font-size="40" font-weight="800" fill="#0b1120">KK</text>
+  </g>
+
+  <text x="90" y="330" font-family="'Segoe UI', system-ui, sans-serif" font-size="74" font-weight="800" fill="#ffffff">
+    Karthik N Kulal
+  </text>
+  <text x="92" y="400" font-family="'Segoe UI', system-ui, sans-serif" font-size="40" font-weight="600" fill="url(#accent)">
+    Full-Stack Software Engineer
+  </text>
+  <text x="92" y="470" font-family="'Segoe UI', system-ui, sans-serif" font-size="28" font-weight="400" fill="#94a3b8">
+    .NET Core &#8226; C# &#8226; React &#8226; Web API &#8226; MS SQL Server
+  </text>
+</svg>

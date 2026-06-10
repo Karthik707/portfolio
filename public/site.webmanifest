@@ -1,0 +1,17 @@
+{
+  "name": "Karthik N Kulal — Portfolio",
+  "short_name": "Karthik Kulal",
+  "description": "Portfolio of Karthik N Kulal, Full-Stack .NET & React Software Engineer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
